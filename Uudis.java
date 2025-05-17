@@ -1,3 +1,5 @@
+package com.example.projectuudiselugeja;
+
 import java.io.IOException;
 
 /**
@@ -61,5 +63,17 @@ public class Uudis {
     @Override
     public String toString() {
         return "\n" + url + "\n\nPealkiri:\n" + pealkiri + "\n\nSisu:\n" + sisu;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public String getPealkiri() {
+        return pealkiri;
+    }
+
+    public String getSisu() {
+        return sisu;
     }
 }
