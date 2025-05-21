@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package com.example.projectuudiselugeja;
+=======
+package com.uudiselugeja.uudiselugeja;
+>>>>>>> Stashed changes
 =======
 package com.uudiselugeja.uudiselugeja;
 >>>>>>> Stashed changes

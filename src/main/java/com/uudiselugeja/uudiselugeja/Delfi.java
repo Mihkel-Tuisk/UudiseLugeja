@@ -72,8 +72,6 @@ public class Delfi {
             }
         }
 
-        System.out.println("Kokku uudiseid: " + uudised.size());
-
         return uudised;
     }
 

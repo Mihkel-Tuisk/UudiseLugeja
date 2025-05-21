@@ -81,8 +81,6 @@ public class ERR {
             }
         }
 
-        System.out.println("Kokku uudiseid: " + uudised.size());
-
         return uudised;
     }
 

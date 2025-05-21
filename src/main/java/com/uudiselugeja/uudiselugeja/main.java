@@ -25,6 +25,7 @@ package com.uudiselugeja.uudiselugeja;
                              saada HTML sisu lehekülgedelt, siis lõin Utils classi, et lihtsusdada elu. Pealse seda
                              testisin kuidas täpsemalt HTMList välja võtta pealkiri ja sisu (Delfi ja ERR class).
  */
+package com.uudiselugeja.uudiselugeja;
 
 import java.util.List;
 import java.util.Scanner;

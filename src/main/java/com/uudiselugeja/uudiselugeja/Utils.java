@@ -1,5 +1,8 @@
 package com.uudiselugeja.uudiselugeja;
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 import java.util.Random;
 
 /**
