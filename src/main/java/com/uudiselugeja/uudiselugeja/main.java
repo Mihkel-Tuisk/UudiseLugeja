@@ -1,3 +1,5 @@
+package com.uudiselugeja.uudiselugeja;
+
 /**
     Autor:                   Mihkel Tuisk
 

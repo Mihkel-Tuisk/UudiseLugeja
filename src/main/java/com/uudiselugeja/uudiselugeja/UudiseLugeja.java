@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package com.example.projectuudiselugeja;
+=======
+package com.uudiselugeja.uudiselugeja;
+>>>>>>> Stashed changes
 
 import javafx.application.Application;
 import javafx.geometry.Insets;

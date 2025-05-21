@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package com.example.projectuudiselugeja;
+=======
+package com.uudiselugeja.uudiselugeja;
+>>>>>>> Stashed changes
 
 import javafx.event.EventHandler;
 import javafx.scene.control.Label;

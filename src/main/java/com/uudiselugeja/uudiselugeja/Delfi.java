@@ -1,12 +1,14 @@
+package com.uudiselugeja.uudiselugeja;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 /**
-    Klassi eesmärk:     Saada informatsiooni Delfi uudisteportaalist.
-    Tähtsamad Meetodid: List<Uudis> leiaKõikUudised() ja void päriUudiseSisu(Uudis)
-*/
+ Klassi eesmärk:     Saada informatsiooni Delfi uudisteportaalist.
+ Tähtsamad Meetodid: List<Uudis> leiaKõikUudised() ja void päriUudiseSisu(Uudis)
+ */
 public class Delfi {
     private String html;
     private final List<String> keelatedUudiseDomeenid = Arrays.asList(
