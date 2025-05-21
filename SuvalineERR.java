@@ -1,6 +1,7 @@
 package com.example.projectuudiselugeja;
 
 import javafx.event.EventHandler;
+import javafx.scene.control.Hyperlink;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
 import javafx.scene.input.MouseEvent;
@@ -11,15 +12,15 @@ public class SuvalineERR implements EventHandler<MouseEvent> {
 
     private TextArea text;
     private Label pealkiri;
-    private Label link;
+    private Hyperlink link;
 
-    public SuvalineERR(TextArea text, Label pealkiri, Label link) {
+    public SuvalineERR(TextArea text, Label pealkiri, Hyperlink link) {
         this.text = text;
         this.pealkiri = pealkiri;
         this.link = link;
     }
 
-    private static Uudis kuvaSuvalineERRUudis() {
+    private static Uudis kuvaSuvalineERRUudis() { //Main klassist võetud ja muudetud meetod, et töötaks graafikaga
         ERR ERR = new ERR();
         List<Uudis> uudised = ERR.leiaKõikUudised();
 
