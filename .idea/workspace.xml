@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d8cc21-b481-4a42-8c3e-54d67800807f" name="Changes" comment="">
+    <list default="true" id="188e18e2-933b-42eb-832d-59339f990020" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Delfi.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ERR.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Skraaper.java" beforeDir="false" />
@@ -21,62 +21,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2xPHoYHjFW12k4ZFd2SKuwIIG2j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2xPKiIh655UafvO50OjMKHOWAKl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HelloApplication.executor": "Run",
-    "Application.UudiseLugeja.executor": "Run",
-    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Mihkel-Dev",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mihkel/Desktop/UudiseLugeja/src/main/java/com/example/uudiselugeja"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mihkel\Desktop\UudiseLugeja\src\main\java\com\example\uudiselugeja" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihkel\Desktop\UudiseLugeja\src\main\java\com\uudiselugeja\uudiselugeja" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54d8cc21-b481-4a42-8c3e-54d67800807f" name="Changes" comment="" />
-      <created>1747832966583</created>
+      <changelist id="188e18e2-933b-42eb-832d-59339f990020" name="Changes" comment="" />
+      <created>1747834393755</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1747832966583</updated>
+      <updated>1747834393755</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/uudiselugeja/Uudis.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
