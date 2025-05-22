@@ -1,3 +1,5 @@
+package com.example.projectuudiselugeja;
+
 import java.util.Random;
 
 /**
