@@ -5,6 +5,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
+ * Faili Autor: Mihkel Tuisk
+*/
+
+/**
     Klassi eesmärk:     Saada veebilehtede html kood.
     Tähtsamad Meetodid: String getHtml()
 */

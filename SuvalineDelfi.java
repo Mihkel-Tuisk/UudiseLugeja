@@ -7,9 +7,14 @@ import javafx.scene.input.MouseEvent;
 import java.util.List;
 
 /**
+ * Autor: Gregor Saar
+*/
+
+/**
  * Klassi eesmärk: Lisada tekstiväljadele uudise pealkirja, sisu ja lingi.
  * Tähtsamad meetodid: Uudis kuvasuvalineDelfiUudis(), void handle()
- */
+*/
+
 public class SuvalineDelfi implements EventHandler<MouseEvent> {
 
     private TextArea text;

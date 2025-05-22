@@ -7,9 +7,14 @@ import javafx.scene.input.MouseEvent;
 import java.util.List;
 
 /**
+ * Autor: Gregor Saar
+*/
+
+/**
  * Klassi eesmärk: Lisada tekstiväljadele uudise pealkirja, sisu ja lingi.
  * Tähtsamad meetodid: Uudis kuvasuvalineERRUudis(), void handle()
- */
+*/
+
 public class SuvalineERR implements EventHandler<MouseEvent> {
 
     private TextArea text;

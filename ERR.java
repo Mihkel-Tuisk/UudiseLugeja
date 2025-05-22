@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Faili Autor: Mihkel Tuisk
+*/
+
+/**
     Klassi eesmärk:     Saada informatsiooni ERR uudisteportaalist.
     Tähtsamad Meetodid: List<Uudis> leiaKõikUudised() ja void päriUudiseSisu(Uudis)
  */

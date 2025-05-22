@@ -1,6 +1,10 @@
 import java.util.Random;
 
 /**
+ * Faili Autor: Mihkel Tuisk
+*/
+
+/**
     Klassi eesmärk:     Abistada teise klasse, ja vätida koodijuppide kordamist.
     Tähtsamad Meetodid: String lihtsustaHtmlSildid(String tekst) ja String leiaAlaSõne(String sisu, String alguseMärge, String lõpuMärge)
 */

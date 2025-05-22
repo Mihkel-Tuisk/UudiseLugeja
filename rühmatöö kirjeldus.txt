@@ -1,4 +1,4 @@
-Autor:                   Mihkel Tuisk, Gregor Saar
+Projekti Autorid:        Mihkel Tuisk, Gregor Saar
 
 Programmi Kirjeldus:     Saada kiirelt suvalisi uudiseid teatud uudisteportaalidest. Konsoolist pead sisestama millisest
                          uudiseportaalist saada uudiseid.

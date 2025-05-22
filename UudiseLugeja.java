@@ -16,7 +16,7 @@ import java.net.URISyntaxException;
 import java.util.List;
 
 /*
-Autor:                   Mihkel Tuisk, Gregor Saar
+Projekti Autorid:        Mihkel Tuisk, Gregor Saar
 
 Programmi Kirjeldus:     Saada kiirelt suvalisi uudiseid teatud uudisteportaalidest. Konsoolist pead sisestama millisest
                          uudiseportaalist saada uudiseid.
@@ -47,6 +47,10 @@ Kas Programm Töötab?     Main meetodis on võimal testida kõiki variante. Alg
                          testisin kuidas täpsemalt HTMList välja võtta pealkiri ja sisu (Delfi ja ERR class).
 
                          UudiseLugeja meetodis on graafiline kasutajaliides.
+*/
+
+/**
+ * Faili Autor: Gregor Saar
 */
 
 public class UudiseLugeja extends Application {

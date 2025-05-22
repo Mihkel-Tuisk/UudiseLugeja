@@ -1,6 +1,10 @@
 import java.io.IOException;
 
 /**
+ * Faili Autor: Mihkel Tuisk
+*/
+
+/**
     Klassi eesmärk:     Saab luua universaalse uudise.
     Tähtsamad Meetodid: Konstruktor, void setSisu(String sisu), String toString(), void päriSisu()
 */

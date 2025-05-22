@@ -3,6 +3,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Faili Autor: Mihkel Tuisk
+*/
+
+/**
  Klassi eesmärk:     Salvestada ja lugeda viimati vaadatud uudist.
  Tähtsamad Meetodid: getViimaneVaadatudUudis() ja setViimaneVaadatudUudis(String pealkiri, String sisu, String url)
  */
