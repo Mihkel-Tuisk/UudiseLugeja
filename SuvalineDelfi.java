@@ -6,18 +6,32 @@ import javafx.scene.input.MouseEvent;
 
 import java.util.List;
 
+/**
+ * Klassi eesmärk: Lisada tekstiväljadele uudise pealkirja, sisu ja lingi.
+ * Tähtsamad meetodid: Uudis kuvasuvalineDelfiUudis(), void handle()
+ */
 public class SuvalineDelfi implements EventHandler<MouseEvent> {
 
     private TextArea text;
     private Label pealkiri;
     private Hyperlink link;
 
+    /**
+     * Konstruktor, mis loob eventi
+     * @param text Sisu teksti väli
+     * @param pealkiri Pealkirja teksti väli
+     * @param link Lingi teksti väli
+     */
     public SuvalineDelfi(TextArea text, Label pealkiri, Hyperlink link) {
         this.text = text;
         this.pealkiri = pealkiri;
         this.link = link;
     }
 
+    /**
+     * Tagastab suvalise Delfi uudise
+     * @return Suvalise uudise objekt
+     */
     private static Uudis kuvaSuvalineDelfiUudis() { //Main klassist võetud ja muudetud meetod, et töötaks graafikaga
         Delfi delfi = new Delfi();
         List<Uudis> uudised = delfi.leiaKõikUudised();
@@ -31,6 +45,10 @@ public class SuvalineDelfi implements EventHandler<MouseEvent> {
         return null;
     }
 
+    /**
+     * Lisab, vajalikud tekstid oma tekstiväljadesse
+     * @param me
+     */
     public void handle(MouseEvent me){
         Uudis uudis = kuvaSuvalineDelfiUudis();
         if (uudis == null) {
