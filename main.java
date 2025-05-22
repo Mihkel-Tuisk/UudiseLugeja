@@ -1,5 +1,5 @@
 /**
-    Autor:                   Mihkel Tuisk
+    Autor:                   Mihkel Tuisk, Gregor Saar
 
     Programmi Kirjeldus:     Saada kiirelt suvalisi uudiseid teatud uudisteportaalidest. Konsoolist pead sisestama millisest
                              uudiseportaalist saada uudiseid.
@@ -9,15 +9,21 @@
                              3. Loo Delfi ja ERR klass
                              4. Loo Uudis klass
                              6. Pane kõik kokku main klassis ja testi.
+                             7. Loo graafika jaoks klass ning eventide jaoks eraldi klassid
+                             8. Testi ja muuda paigutust, kuni näeb välja ja töötab õigesti
 
-    Liikmete panus:          Mihkel Tuisk 100%
+    Liikmete panus:          Mihkel Tuisk 50%
+                             Gregor Saar 50%
 
-    Ligikaudne Ajakulu:      7h 30min
+    Ligikaudne Ajakulu:      Esimene etapp: 7h 30min
+                             Teine etapp: 5h
 
     Tegemise Mured:          Igal uudiseportaalil on erinev viis kuidas kuvatakse uudiseid html-is
+                             Javafx üldiselt ajab segadusse sellega, et mis elemente on hea kasutada
 
     Hinnang Töö Lõppemusele: 9.2/10. String lihtsustaHtmlSildid(String tekst) vajab veel arendamist, vahepeal satub HTMLi
                              inimloetavasse teksti sisse.
+                             Vahepeal pealkirja ja lingi tekst võib mitte mahtuda korralikult
 
     Kas Programm Töötab?     Main meetodis on võimal testida kõiki variante. Alguses lõin Skraaperi, et testida kuidas
                              saada HTML sisu lehekülgedelt, siis lõin Utils classi, et lihtsusdada elu. Pealse seda
